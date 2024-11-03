@@ -1,0 +1,1 @@
+Goal is to create tiny audioreactive videos (`119px x {number of tracks}px`) that I can then plug into Processing, TouchDesigner, Max/MSP/Jitter, and Video2DMX to simplify the process of creating audiovisual content synced to the exact notes and velocities.
